@@ -2,7 +2,10 @@
 
 <p align ="center">
   <img loading="lazy" alt="Badge de status de desenvolvimento" src="https://img.shields.io/badge/STATUS-COMPLETO-green">
+  <img loading="lazy" alt="Badge da linguagem HTML5" src="https://img.shields.io/badge/HTML5-orange">
 </p>
+
+
 
 
 
