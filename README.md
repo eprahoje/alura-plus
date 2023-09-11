@@ -6,6 +6,18 @@
   <img loading="lazy" alt="Badge da linguagem CSS3" src="https://img.shields.io/badge/CSS3-blue"> 
 </p>
 
+Um site desenvolvido para fins de estudo com o curso da Alura: HTML e CSS: Praticando HTML/CSS.
+
+## 🧰 Ferramentas Utilizadas:
+* HTML
+* CSS
+* Flex-box
+
+## ✅ Feito por: 
+Gabriel Rodrigues.
+
+### LinkedIn: https://www.linkedin.com/in/gabriel-rodrigues-7227a8260/
+
 
 
 
