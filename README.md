@@ -1,6 +1,6 @@
-# ![Logo do Alura Plus](https://github.com/eprahoje/alura-plus/assets/143037296/a914d131-1b02-47d8-a151-adee74bad6b0)
+# <img alt="logo da alura plus" src= "https://github.com/eprahoje/alura-plus/assets/143037296/45c2161d-6eb5-4e37-9992-99d05320c651">
 
-<p align ="center">
+<p>
   <img loading="lazy" alt="Badge de status de desenvolvimento" src="https://img.shields.io/badge/STATUS-COMPLETO-green">
   <img loading="lazy" alt="Badge da linguagem HTML5" src="https://img.shields.io/badge/HTML5-orange">
   <img loading="lazy" alt="Badge da linguagem CSS3" src="https://img.shields.io/badge/CSS3-blue"> 
