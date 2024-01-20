@@ -16,12 +16,4 @@ Um site desenvolvido para fins de estudo com o curso da Alura: HTML e CSS: Prati
 * `CSS`
 * `Flex-box`
 
-## ✅ Feito por: 
-Gabriel Rodrigues.
-
 ### LinkedIn: https://www.linkedin.com/in/gabriel-rodrigues-7227a8260/
-
-
-
-
-
